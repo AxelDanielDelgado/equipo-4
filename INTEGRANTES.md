@@ -8,7 +8,7 @@
 - Matrícula: 251126
 - Rol: Documentación
 
-  ## 3. Luis Jasiel Cigala Medina
+  ## 3. Luis Jasiel Sigala Medina
 - Matrícula: 250760
 - Rol: Programador
 
