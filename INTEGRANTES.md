@@ -7,3 +7,12 @@
 ## 2. Maximiliando Muñiz Loera
 - Matrícula: 251126
 - Rol: Documentación
+
+  ## 3. Luis Jasiel Cigala Medina
+- Matrícula: 250760
+- Rol: Programador
+
+
+## 4. Mateo Limon Romo
+- Matrícula: 251119
+- Rol: Documentacion
