@@ -16,3 +16,5 @@ Explicar qué hace el proyecto.
 ## Autores
 - Axel Daniel Delgado Velazquez
 - Maximiliano Muñiz Loera
+- Mateo Limon Romo
+- Luis Jasiel Sigala Medina
